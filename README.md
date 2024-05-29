@@ -1,3 +1,15 @@
+# BrawlCSS
+Reimplementation of the Super Smash Bros. Brawl character select screen.
+
+The repository will compile a .rel for the game to be loaded for vanilla Brawl.
+
+WARNING: The code compiled is not a 1:1 recreation of Brawl's code and will have some alterations well needed, this making existing character select screen codes not function as originally intended.
+
+# Planned features
+Will be revealed soon.
+
+Source readme.md down below
+
 # BrawlModule
 Experimental C++ reimplementation of Super Smash Bros. Brawl module (.rel) files.
 
